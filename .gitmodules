@@ -1,3 +1,6 @@
 [submodule "public/hurock"]
 	path = public/hurock
 	url = git@github.com:LeoVergara1/hurock.git
+[submodule "hurock"]
+	path = public
+	url = git@github.com:LeoVergara1/hurock.git
